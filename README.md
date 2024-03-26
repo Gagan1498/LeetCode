@@ -1,1 +1,1 @@
-Solving LeetCode questions and posting their solutions here :) 
+Solving LeetCode problems and posting their solutions here :) 
