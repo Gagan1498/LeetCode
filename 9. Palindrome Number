@@ -1,3 +1,5 @@
+/* Trick: Instead of revresing the number and comparing with the original number, just reverse half the number and compare it with other half */
+
 bool isPalindrome(int x) {
     
     int reversedhalf = 0;
