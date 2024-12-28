@@ -1,1 +1,1 @@
-Solving LeetCode problems and posting their solutions here :) 
+Solving LeetCode problems in C language and posting their solutions here :) 
