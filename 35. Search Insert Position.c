@@ -1,6 +1,7 @@
-/****************************************************************************************
+/************************************************************************************************************
 This code is implemented based on the targeted time complexity of O(logn)
-****************************************************************************************/
+Trick: Think of binary search if you find an array in ascending order - chick if it can be used in some way.
+************************************************************************************************************/
 
 int searchInsert(int* nums, int numsSize, int target) {
     int l =0;
